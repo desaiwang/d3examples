@@ -1,0 +1,87 @@
+[
+  {
+    "age": 0,
+    "lived": 21,
+    "died": 13
+  },
+  {
+    "age": 5,
+    "lived": 21,
+    "died": 11
+  },
+  {
+    "age": 10,
+    "lived": 12,
+    "died": 16
+  },
+  {
+    "age": 15,
+    "lived": 27,
+    "died": 33
+  },
+  {
+    "age": 20,
+    "lived": 64,
+    "died": 115
+  },
+  {
+    "age": 25,
+    "lived": 67,
+    "died": 104
+  },
+  {
+    "age": 30,
+    "lived": 132,
+    "died": 285
+  },
+  {
+    "age": 35,
+    "lived": 46,
+    "died": 62
+  },
+  {
+    "age": 40,
+    "lived": 28,
+    "died": 57
+  },
+  {
+    "age": 45,
+    "lived": 23,
+    "died": 39
+  },
+  {
+    "age": 50,
+    "lived": 27,
+    "died": 25
+  },
+  {
+    "age": 55,
+    "lived": 15,
+    "died": 17
+  },
+  {
+    "age": 60,
+    "lived": 11,
+    "died": 16
+  },
+  {
+    "age": 65,
+    "lived": 4,
+    "died": 10
+  },
+  {
+    "age": 70,
+    "lived": 0,
+    "died": 5
+  },
+  {
+    "age": 75,
+    "lived": 1,
+    "died": 1
+  },
+  {
+    "age": 80,
+    "lived": 1,
+    "died": 0
+  }
+]
